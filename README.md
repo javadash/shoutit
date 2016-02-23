@@ -1,7 +1,5 @@
-# hello-world
+# Shout It Box
 
-Hey Hey!
+I have made a chatroom by creating a dynamic web-page where multiple users can comment on.
 
-Hi People!
-
-I'm Seda and I love coding!:)
+It displays the current time, username and message.
